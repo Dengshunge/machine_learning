@@ -22,3 +22,6 @@
 2. dropout（常用于神经网络，随机抛弃部分神经元）
 3. 提前终止训练
 4. 增加样本数量
+
+## 交叉验证
+[为什么要用交叉验证](https://blog.csdn.net/aliceyangxi1987/article/details/73532651)
