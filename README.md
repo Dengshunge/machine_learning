@@ -4,7 +4,10 @@
 ## L1、L2正则化的作用
 1. L1正则化可以产生稀疏权值矩阵，即产生一个稀疏模型，可以用于特征选择
 2. L2正则化可以防止模型过拟合（overfitting）；一定程度上，L1也可以防止过拟合  
-具体解释可以见[这篇文章](https://blog.csdn.net/jinping_shi/article/details/52433975)
+具体解释可以见[这篇文章](https://blog.csdn.net/jinping_shi/article/details/52433975)  
+
+另外[这篇文章](https://blog.csdn.net/crazy_scott/article/details/80343324)用另外的方法介绍了两者的区别和联系
+![](https://github.com/Dengshunge/machine_learning/blob/master/buffer/L1L2%E6%AD%A3%E5%88%99%E5%8C%96%E7%9A%84%E8%81%94%E7%B3%BB.jpg?raw=true)
 
 ## 归一化
 [为什么一些机器学习模型需要对数据进行归一化？](https://www.cnblogs.com/bonelee/p/7124695.html)  
