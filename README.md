@@ -18,6 +18,7 @@ Summary文件夹是我在学习机器学习中，对不同算法的一个总结
 
 ## 防止过拟合的方法
 [感谢这位博主](https://blog.csdn.net/Left_Think/article/details/77684087?locationNum=5&fps=1)  
+[还有这篇文章，讲得也比较清楚](http://www.mamicode.com/info-detail-517504.html)  
 防止过拟合的方法有：
 1. 引入正则化
 2. dropout（常用于神经网络，随机抛弃部分神经元）
